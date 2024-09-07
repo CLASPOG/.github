@@ -25,3 +25,11 @@ Getting started with some basic to intermediate SaaS Projects
 ##  Contact Us
 
 Get in touch with us at example@gmail.com
+
+
+
+## Somethings Up in
+
+<div id="counter" align="center">
+<table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="center"><img src="https://i.countdownmail.com/3in2kj.gif" style="display:inline-block!important;width:100%!important;max-width:714px!important;" border="0" alt="countdownmail.com"/></td></tr></tbody></table>
+</div>
